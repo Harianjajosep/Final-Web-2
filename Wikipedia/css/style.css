@@ -1,0 +1,40 @@
+body {
+    font-family:times new roman;
+    margin-bottom:35px;
+  background:green;
+}
+h1 {
+  font-family:times new roman;
+  color:red;
+  font-size:60px;
+  text-shadow: 2px 2px white;
+}
+
+#result {
+margin-top: 40px;
+  background-color: yellow;
+  border: 5px solid green;
+  padding: 10px;
+  text-align: left;
+}
+#result a:link {
+  color: green;
+  font-size: 40px;
+  font-family:times new roman;
+}
+#footer{
+  font-size:24px;
+  text-align:center;
+}
+#footer a:link {
+  color: blue;
+}
+h3
+{
+  font-size:30px;
+  font-family:times new roman;
+}
+#search
+{
+  float:left;
+}
